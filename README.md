@@ -2,10 +2,10 @@
 
 ## Usage
 
-    brew tap billzajac/dumpasn1
+    brew tap unbe/dumpasn1
     brew install dumpasn1
 
-    brew untap billzajac/dumpasn1 # To remove tap
+    brew untap unbe/dumpasn1 # To remove tap
 
 ## Example dumpasn1
 
